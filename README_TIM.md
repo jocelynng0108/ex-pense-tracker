@@ -1,7 +1,7 @@
 # 🤝 Panduan Kolaborasi Tim — Expense Tracker
 
 ## 🎯 Tujuan
-<!-- Bagian ini menjelaskan tujuan utama panduan, yaitu membantu anggota tim berkolaborasi secara efektif di GitHub dan memahami alur kerja CI/CD. -->
+//Bagian ini menjelaskan tujuan utama panduan, yaitu membantu anggota tim berkolaborasi secara efektif di GitHub dan memahami alur kerja CI/CD. 
 Panduan ini untuk membantu anggota **Bug4Fun** agar dapat:
 - Berkontribusi ke repository GitHub
 - Melakukan update kode
